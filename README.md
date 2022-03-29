@@ -1,2 +1,2 @@
-# React-App-with-Chakura_UI3
+# React-App-with-Chakura_UI
 Created with CodeSandbox
